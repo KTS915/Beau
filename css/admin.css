@@ -1,0 +1,12 @@
+.swp_scode_btn {
+	text-align: center;
+	margin: 20px 0px;
+}
+.swp_scode_btn a {
+	color: #fff !important;
+	padding: 10px 30px
+}
+.swp_scode_btn a:hover {
+	text-decoration: none;
+	opacity: .50;
+}
